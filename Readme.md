@@ -35,19 +35,26 @@
 🧠 *Hands-on:* Build a simple “Hello AI” workflow that takes user input and replies dynamically.
 
 🎯 *Outcome:* Students can create and test a working agent workflow.
----
-## Weather Agent with Chatkit Output Template
-- Introduction to Chatkit
-- Simple design
-- prompt writing
-- attaching the chatkit
-- evaluation
-- publish later once local setup is done.
----
 
 ---
 
-## ⚙️ **Section 3: Deep Dive into Agent Nodes & Tools (35 min)**
+## ⚙️ **Section 3: Weather Agent with ChatKit Output Template (25 min)**
+
+**Topics:**
+
+* Introduction to ChatKit
+* Simple design principles
+* Prompt writing best practices
+* Attaching ChatKit to agents
+* Evaluation and testing
+* Publishing workflow (after local setup)
+
+🧠 *Hands-on:* Build a weather agent with ChatKit interface.
+🎯 *Outcome:* Students learn to integrate ChatKit for user-friendly agent interfaces.
+
+---
+
+## ⚙️ **Section 4: Deep Dive into Agent Nodes & Tools (35 min)**
 
 **Topics:**
 
@@ -58,16 +65,42 @@
 * User Approval and State nodes
 * File Search and Memory nodes
 
-🧠 *Hands-on:* Build a “Movie Info Assistant” using the MCP + API node.
+🧠 *Hands-on:* Build a "Movie Info Assistant" using the MCP + API node.
 🎯 *Outcome:* Students learn practical use of different node types and MCP configuration.
 
 ---
 
-## Section 4 - Finance Health RAG
+## 📊 **Section 5: Finance Health RAG Agent (40 min)**
 
-## Section 5 - KGP Vibes Cafe Order
+**Topics:**
 
-## 🧩 **Section 6: Setting up AWS & MySQL for Your Agents (20 min)**
+* Introduction to RAG (Retrieval-Augmented Generation)
+* Setting up document storage and indexing
+* Building a financial health assessment agent
+* Integrating document search with agent responses
+* Best practices for context retrieval
+
+🧠 *Hands-on:* Build a finance health assistant using RAG.
+🎯 *Outcome:* Students understand how to implement RAG in Agent Builder.
+
+---
+
+## ☕ **Section 6: KGP Vibes Cafe Order Agent (35 min)**
+
+**Topics:**
+
+* Building a conversational ordering system
+* Managing state and context in multi-turn conversations
+* Handling user preferences and customization
+* Order confirmation and validation workflow
+* Integration with backend systems
+
+🧠 *Hands-on:* Create a complete cafe ordering agent.
+🎯 *Outcome:* Students can build stateful conversational agents.
+
+---
+
+## 🧩 **Section 7: Setting up AWS & MySQL for Your Agents (20 min)**
 
 **Topics:**
 
@@ -82,7 +115,7 @@
 
 ---
 
-## 💬 **Section 5: Project 1 – Customer Support Agent (50 min)**
+## 💬 **Section 8: Project 1 – Customer Support Agent (50 min)**
 
 **Topics:**
 
@@ -102,7 +135,7 @@
 
 ---
 
-## 🛒 **Section 6: Project 2 – E-commerce Recommender & Order Tracker (35 min)**
+## 🛒 **Section 9: Project 2 – E-commerce Recommender & Order Tracker (35 min)**
 
 **Topics:**
 
@@ -116,7 +149,7 @@
 
 ---
 
-## 🌐 **Section 8: Deploying and Integrating Your Agent (20 min)**
+## 🌐 **Section 10: Deploying and Integrating Your Agent (20 min)**
 
 **Topics:**
 
@@ -130,7 +163,7 @@
 
 ---
 
-## 🎓 **Section 9: Bonus – Extending with Analytics & Voice (15 min)**
+## 🎓 **Section 11: Bonus – Extending with Analytics & Voice (15 min)**
 
 **Topics:**
 
@@ -142,7 +175,7 @@
 
 ---
 
-## 📜 **Section 10: Course Wrap-Up (10 min)**
+## 📜 **Section 12: Course Wrap-Up (10 min)**
 
 **Topics:**
 
