@@ -35,6 +35,15 @@
 🧠 *Hands-on:* Build a simple “Hello AI” workflow that takes user input and replies dynamically.
 
 🎯 *Outcome:* Students can create and test a working agent workflow.
+---
+## Weather Agent with Chatkit Output Template
+- Introduction to Chatkit
+- Simple design
+- prompt writing
+- attaching the chatkit
+- evaluation
+- publish later once local setup is done.
+---
 
 ---
 
@@ -54,7 +63,11 @@
 
 ---
 
-## 🧩 **Section 4: Setting up AWS & MySQL for Your Agents (20 min)**
+## Section 4 - Finance Health RAG
+
+## Section 5 - KGP Vibes Cafe Order
+
+## 🧩 **Section 6: Setting up AWS & MySQL for Your Agents (20 min)**
 
 **Topics:**
 
@@ -100,19 +113,6 @@
 * Adding human escalation node
 
 🎯 *Outcome:* E-commerce support assistant with personalized product suggestions.
-
----
-
-## 🧠 **Section 7: Project 3 – SQL Database Access Agent (30 min)**
-
-**Topics:**
-
-* Designing agent to accept natural queries (“Show top 5 customers by orders”)
-* Parsing user query → SQL → executing via MCP
-* Returning structured results
-* Logging queries and results in MySQL
-
-🎯 *Outcome:* Natural language SQL assistant powered by Agent Builder + MCP.
 
 ---
 
