@@ -85,7 +85,22 @@
 
 ---
 
-## ☕ **Section 6: KGP Vibes Cafe Order Agent (35 min)**
+## 💬 **Section 6: Website QnA Chatbot (90 min)**
+
+**Topics:**
+
+* Designing and building QnA Chatbot with Agent and Prompt Engineering
+* Setting up website data and publishing workflow
+* Local deployment with Node.js
+* Remote deployment on Vercel server
+* Integration and testing with your website
+
+🧠 *Hands-on:* Build and deploy a complete website QnA chatbot from scratch.
+🎯 *Outcome:* Students can create, deploy, and integrate production-ready QnA chatbots for websites.
+
+---
+
+## ☕ **Section 7: KGP Vibes Cafe Order Agent (35 min)**
 
 **Topics:**
 
@@ -100,7 +115,7 @@
 
 ---
 
-## 🧩 **Section 7: Setting up AWS & MySQL for Your Agents (20 min)**
+## 🧩 **Section 8: Setting up AWS & MySQL for Your Agents (20 min)**
 
 **Topics:**
 
@@ -115,7 +130,7 @@
 
 ---
 
-## 💬 **Section 8: Project 1 – Customer Support Agent (50 min)**
+## 💬 **Section 9: Project 1 – Customer Support Agent (50 min)**
 
 **Topics:**
 
@@ -135,7 +150,7 @@
 
 ---
 
-## 🛒 **Section 9: Project 2 – E-commerce Recommender & Order Tracker (35 min)**
+## 🛒 **Section 10: Project 2 – E-commerce Recommender & Order Tracker (35 min)**
 
 **Topics:**
 
@@ -149,7 +164,7 @@
 
 ---
 
-## 🌐 **Section 10: Deploying and Integrating Your Agent (20 min)**
+## 🌐 **Section 11: Deploying and Integrating Your Agent (20 min)**
 
 **Topics:**
 
@@ -163,7 +178,7 @@
 
 ---
 
-## 🎓 **Section 11: Bonus – Extending with Analytics & Voice (15 min)**
+## 🎓 **Section 12: Bonus – Extending with Analytics & Voice (15 min)**
 
 **Topics:**
 
@@ -175,7 +190,7 @@
 
 ---
 
-## 📜 **Section 12: Course Wrap-Up (10 min)**
+## 📜 **Section 13: Course Wrap-Up (10 min)**
 
 **Topics:**
 
