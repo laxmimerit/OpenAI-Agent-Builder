@@ -130,7 +130,21 @@
 
 ---
 
-## 💬 **Section 9: Project 1 – Customer Support Agent (50 min)**
+## 🛒 **Section 9: Project 1 – E-commerce Recommender & Order Tracker (35 min)**
+
+**Topics:**
+
+* Querying product & order data (Classic Models DB)
+* Integrating MCP for product search API
+* Workflow for product recommendations
+* Guardrails for product suggestion limits
+* Adding human escalation node
+
+🎯 *Outcome:* E-commerce support assistant with personalized product suggestions.
+
+---
+
+## 💬 **Section 10: Project 2 – Customer Support Agent (50 min)**
 
 **Topics:**
 
@@ -147,34 +161,6 @@
 * ChatKit front-end demo
 
 🎯 *Outcome:* End-to-end customer support agent integrated with MySQL and AWS.
-
----
-
-## 🛒 **Section 10: Project 2 – E-commerce Recommender & Order Tracker (35 min)**
-
-**Topics:**
-
-* Querying product & order data (Classic Models DB)
-* Integrating MCP for product search API
-* Workflow for product recommendations
-* Guardrails for product suggestion limits
-* Adding human escalation node
-
-🎯 *Outcome:* E-commerce support assistant with personalized product suggestions.
-
----
-
-## 🌐 **Section 11: Deploying and Integrating Your Agent (20 min)**
-
-**Topics:**
-
-* Exporting agent as code
-* Hosting MCP server on AWS EC2
-* Integrating ChatKit in a Streamlit or React UI
-* Security, keys, and rate-limiting
-* Using Guardrails and User Approval for enterprise readiness
-
-🎯 *Outcome:* Students can deploy and showcase their own production-ready AI agents.
 
 ---
 
