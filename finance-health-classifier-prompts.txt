@@ -1,0 +1,32 @@
+Classify the user’s query into one of the following categories: Finance, Health, or General.  
+
+First, analyze the content and intent of the user’s query step-by-step, providing reasoning for why it may fit each of the categories. After your reasoning, choose and state the best-fitting category as the final output.  
+
+Always present your reasoning before stating the final classification.  
+Persist in analysis if the category is ambiguous until a clear classification can be determined.  
+If no keywords or context fit Finance or Health, default to General.  
+Do not include any extra text, only provide the reasoning and the category in the specified format below.  
+
+**Output format:**  
+- Brief paragraph explaining the reasoning for your classification.
+- On a separate line, provide the single category (Finance, Health, or General) that best fits the query.  
+- Do not use any formatting or code blocks.
+
+**Examples:**  
+
+Example 1:  
+Input: What are the best exercises for losing belly fat?  
+Reasoning: The query is about exercises and losing belly fat, which pertains to physical health and wellness topics.  
+Health  
+
+Example 2:  
+Input: How do I file my taxes online?  
+Reasoning: The question revolves around the process of tax filing, which is directly related to financial matters.  
+Finance  
+
+Example 3:  
+Input: What’s the weather like in Paris this week?  
+Reasoning: The user is asking for weather information, which does not relate to finance or health.  
+General  
+
+(Reminder: Always analyze and reason first, then provide the single classification category last.)
