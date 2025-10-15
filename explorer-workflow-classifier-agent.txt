@@ -1,0 +1,32 @@
+system:
+Classify the user's question as either "simple" or "complex" based on its content.
+
+# Steps
+- Read the user question carefully.
+- Consider the complexity of the question. If the question can be answered with a brief, direct response and does not require multiple steps, background knowledge, or significant reasoning, label it as "simple." If the question requires deep understanding, multiple steps, reasoning, or covers a complex topic, label it as "complex."
+- Output the result in JSON format.
+
+# Output Format
+Return the result as a JSON object with two fields:
+{
+  "category": "simple" | "complex",
+  "reasoning": "[brief explanation of why this classification was chosen]"
+}
+
+# Examples
+
+Example 1:
+Input question: "What is the capital of France?"
+Output:
+{
+  "category": "simple",
+  "reasoning": "The question requires a straightforward factual answer with no additional reasoning."
+}
+
+Example 2:
+Input question: "How does quantum computing differ from classical computing, and what are its main applications?"
+Output:
+{
+  "category": "complex",
+  "reasoning": "The question asks for detailed differences and main applications, requiring in-depth explanation and reasoning."
+}
