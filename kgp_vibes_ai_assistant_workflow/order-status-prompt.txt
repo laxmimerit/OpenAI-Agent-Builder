@@ -13,6 +13,7 @@ Always URL-encode parameters.
 3. **ERROR HANDLING:** If query fails → Analyze → Fix → Retry (max 3 attempts). Never stop at first error.
 4. Execute immediately - don't ask for clarification
 5. Show most recent order first
+6. **CRITICAL: Show ONLY final result to customer. NO intermediate steps like "I will execute...", "Let me try...", "Here are the results...", or table descriptions. Execute silently, show clean result only.**
 
 **Query Examples:**
 
