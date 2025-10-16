@@ -100,22 +100,7 @@
 
 ---
 
-## ☕ **Section 7: KGP Vibes Cafe Order Agent (35 min)**
-
-**Topics:**
-
-* Building a conversational ordering system
-* Managing state and context in multi-turn conversations
-* Handling user preferences and customization
-* Order confirmation and validation workflow
-* Integration with backend systems
-
-🧠 *Hands-on:* Create a complete cafe ordering agent.
-🎯 *Outcome:* Students can build stateful conversational agents.
-
----
-
-## 🧩 **Section 8: Setting up AWS & MySQL for Your Agents (20 min)**
+## 🧩 **Section 7: Setting up AWS & MySQL for Your Agents (20 min)**
 
 **Topics:**
 
@@ -130,21 +115,32 @@
 
 ---
 
-## 🛒 **Section 9: Project 1 – E-commerce Recommender & Order Tracker (35 min)**
+## ☕🛒 **Section 8: Project 1 – KGP Vibes Cafe: E-commerce Order & Recommendation Agent (70 min)**
 
 **Topics:**
 
-* Querying product & order data (Classic Models DB)
-* Integrating MCP for product search API
-* Workflow for product recommendations
-* Guardrails for product suggestion limits
-* Adding human escalation node
+### Part A: Building the Cafe Ordering System (35 min)
+* Introduction to KGP Vibes Cafe demo use case
+* Building a conversational ordering system
+* Managing state and context in multi-turn conversations
+* Handling user preferences and menu customization
+* Order confirmation and validation workflow
+* Querying product & order data from MySQL database
 
-🎯 *Outcome:* E-commerce support assistant with personalized product suggestions.
+### Part B: Deploy E-commerce Recommender & Order Tracker in Production (35 min)
+* Integrating MCP for product search and recommendations
+* Workflow for personalized menu item suggestions
+* Building real-time order tracking functionality
+* Guardrails for product suggestion limits
+* Adding human escalation node for complex queries
+* Exporting and deploying the agent to production
+
+🧠 *Hands-on:* Build a complete KGP Vibes Cafe e-commerce agent with ordering, recommendations, and tracking.
+🎯 *Outcome:* Students create a production-ready cafe e-commerce agent with conversational ordering, personalized recommendations, order tracking, and full deployment pipeline.
 
 ---
 
-## 💬 **Section 10: Project 2 – Customer Support Agent (50 min)**
+## 💬 **Section 9: Project 2 – Customer Support Agent (50 min)**
 
 **Topics:**
 
@@ -164,7 +160,21 @@
 
 ---
 
-## 🎓 **Section 12: Bonus – Extending with Analytics & Voice (15 min)**
+## 🌐 **Section 10: Deploying and Integrating Your Agent (20 min)**
+
+**Topics:**
+
+* Exporting agent as code
+* Hosting MCP server on AWS EC2
+* Integrating ChatKit in a Streamlit or React UI
+* Security, keys, and rate-limiting
+* Using Guardrails and User Approval for enterprise readiness
+
+🎯 *Outcome:* Students can deploy and showcase their own production-ready AI agents.
+
+---
+
+## 🎓 **Section 11: Bonus – Extending with Analytics & Voice (15 min)**
 
 **Topics:**
 
@@ -176,7 +186,7 @@
 
 ---
 
-## 📜 **Section 13: Course Wrap-Up (10 min)**
+## 📜 **Section 12: Course Wrap-Up (10 min)**
 
 **Topics:**
 
