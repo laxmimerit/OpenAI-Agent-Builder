@@ -90,7 +90,7 @@ INSERT INTO products (name, category, description, price, stock) VALUES
 ('Hackathon Iced Coffee', 'COFFEE', 'Sweet and energetic — keeps you awake.', 4.50, 85),
 ('Caramel Macchiato', 'COFFEE', 'Layered espresso with vanilla and caramel drizzle.', 4.20, 95),
 ('Flat White', 'COFFEE', 'Velvety microfoam meets rich espresso.', 3.60, 100),
-('Talkie Chai', 'COFFEE', 'Spiced Indian chai, café's soul drink.', 2.00, 120),
+('Talkie Chai', 'COFFEE', 'Spiced Indian chai, cafe soul drink.', 2.00, 120),
 ('Matcha Latte', 'COFFEE', 'Premium Japanese green tea with steamed milk.', 4.00, 70),
 ('Nitro Cold Brew', 'COFFEE', 'Smooth, creamy cold brew infused with nitrogen.', 4.50, 60),
 ('Campus Hot Chocolate', 'COFFEE', 'Creamy hot chocolate with marshmallows.', 3.00, 100);
