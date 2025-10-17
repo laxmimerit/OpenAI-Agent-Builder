@@ -1,209 +1,543 @@
-# Master OpenAI Agent Builder — Low-Code AI Workflows & Real Projects
+# 🚀 Complete AI & Machine Learning Course Collection 🚀
 
-**Course Duration:** ~4 hours
-**Target Audience:** Beginners to intermediate developers, AI enthusiasts, solution architects.
-**Tools Used:** OpenAI Agent Builder, ChatKit, MCP, AWS RDS (MySQL), Streamlit, Python (optional).
-**Focus:** Low-code, real-world use cases, end-to-end AWS integration.
+<div align="center">
 
----
+![KGP Talkie](https://github.com/laxmimerit/Important-Announcement-on-ML/raw/master/kgptalkie_strips.png)
 
-## 🧭 **Section 1: Course Introduction (10 min)**
+[![AI Development](https://img.shields.io/badge/AI-Development-blue?style=for-the-badge&logo=openai)](https://www.udemy.com/course/master-openai-agent-builder-low-code-ai-projects-workflow/?referralCode=B0B67D18B1013E488FB7)
+[![LangChain](https://img.shields.io/badge/LangChain-Latest-green?style=for-the-badge&logo=chainlink)](https://www.udemy.com/course/agentic-rag-with-langchain-and-langgraph/?referralCode=C0BCC208F53AF2C98AC5)
+[![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge&logo=tensorflow)](https://www.udemy.com/course/python-for-machine-learning-and-data-science-projects/?referralCode=C2A381E2EC08C84FFBFE)
+[![Students](https://img.shields.io/badge/Students-100K+-red?style=for-the-badge&logo=graduation-cap)](https://www.udemy.com/user/laxmi-kant-tiwari/)
 
-**Topics:**
+**Master AI Development • Build Production Applications • Deploy at Scale**
 
-* Course overview and objectives
-* What is an AI Agent and Agent Builder
-* How MCP + Agent Builder revolutionize low-code AI
-* AWS setup overview (RDS, EC2)
-* Demo of the final 3 applications
+[🤖 LLM Development](#-llm-and-ai-agent-development) • [📊 Machine Learning](#-machine-learning-and-data-science) • [🚀 Production](#-production-and-deployment)
 
-🎯 *Outcome:* Students understand what they’ll build and what tools they’ll learn.
+</div>
 
 ---
 
-## 🧱 **Section 2: Getting Started with Agent Builder (25 min)**
+## 🤖 LLM and AI Agent Development
 
-**Topics (from your script):**
+<details>
+<summary><strong>🎯 Master OpenAI Agent Builder - Low-Code AI Projects Workflow</strong></summary>
 
-* Overview of OpenAI AgentKit & Agent Builder
-* Creating your first agent (visual canvas tour)
-* Understanding nodes (Agent, MCP, Guardrails, If/Else, Transform, End)
-* Connecting logic flow
-* Real-time preview and debugging
-* Exporting the agent as code (Python/TypeScript)
+> **🎯 Build and deploy AI agents visually using OpenAI Agent Builder, ChatKit, RAG, Chatbot, AI Assistant with MCP, AWS, RDS MySQL**
 
-🧠 *Hands-on:* Build a simple “Hello AI” workflow that takes user input and replies dynamically.
+**What You'll Master:**
+- ✅ **Visual AI Development:** Build AI agents without complex coding using OpenAI Agent Builder
+- ✅ **Real-World Integration:** Connect AI workflows with MySQL, AWS, and MCP connectors
+- ✅ **Production Deployment:** Deploy AI agents with ChatKit and Guardrails for safety
+- ✅ **Complete Projects:** Weather Agent, RAG Document Q&A Chatbot, E-Commerce AI Assistant
+- ✅ **Database Integration:** AWS RDS MySQL connection and management
+- ✅ **Cloud Deployment:** AWS Lambda and API Gateway for production use
 
-🎯 *Outcome:* Students can create and test a working agent workflow.
+<div align="center">
 
----
+**🎯 Technologies:** OpenAI Agent Builder • ChatKit • AWS • RDS MySQL • MCP • Lambda • API Gateway
 
-## ⚙️ **Section 3: Weather Agent with ChatKit Output Template (25 min)**
+</div>
 
-**Topics:**
+<div align="center">
+<a href="https://www.udemy.com/course/master-openai-agent-builder-low-code-ai-projects-workflow/?referralCode=B0B67D18B1013E488FB7" target="_blank">
+<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-00A67E?style=for-the-badge&logoColor=white&labelColor=00A67E" alt="Enroll Now" width="200"/>
+</a>
+</div>
 
-* Introduction to ChatKit
-* Simple design principles
-* Prompt writing best practices
-* Attaching ChatKit to agents
-* Evaluation and testing
-* Publishing workflow (after local setup)
+</details>
 
-🧠 *Hands-on:* Build a weather agent with ChatKit interface.
-🎯 *Outcome:* Students learn to integrate ChatKit for user-friendly agent interfaces.
+<details>
+<summary><strong>🔥 MCP Mastery: Build AI Apps with Claude, LangChain and Ollama</strong></summary>
 
----
+> **🎯 Build MCP servers & clients with Python, Streamlit, ChromaDB, LangChain, LangGraph agents, and Ollama integrations**
 
-## ⚙️ **Section 4: Deep Dive into Agent Nodes & Tools (35 min)**
+**What You'll Master:**
+- ✅ **MCP Architecture:** Client, server, and transport layers
+- ✅ **Claude Desktop Integration:** Direct MCP server connections
+- ✅ **Real-World Applications:** Data analysis servers for Excel, PowerPoint, SQLite
+- ✅ **RAG Implementation:** Vector databases with LangChain integration
+- ✅ **Production Deployment:** Testing, security, and cloud deployment
 
-**Topics:**
+<div align="center">
 
-* Agent node: prompt writing and configuration
-* MCP node: connecting APIs or services
-* Guardrails node: enforcing safety & compliance
-* Conditional and logic nodes
-* User Approval and State nodes
-* File Search and Memory nodes
+**🎯 Technologies:** Python • Streamlit • ChromaDB • LangChain • LangGraph • Ollama
 
-🧠 *Hands-on:* Build a "Movie Info Assistant" using the MCP + API node.
-🎯 *Outcome:* Students learn practical use of different node types and MCP configuration.
+</div>
 
----
+<div align="center">
+<a href="https://www.udemy.com/course/mcp-mastery-build-ai-apps-with-claude-langchain-and-ollama/?referralCode=31C17C306A59601B8689" target="_blank">
+<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-FF6B35?style=for-the-badge&logoColor=white&labelColor=FF6B35" alt="Enroll Now" width="200"/>
+</a>
+</div>
 
-## 📊 **Section 5: Finance Health RAG Agent (40 min)**
+</details>
 
-**Topics:**
+<details>
+<summary><strong>📊 Agentic RAG with LangChain and LangGraph - Ollama</strong></summary>
 
-* Introduction to RAG (Retrieval-Augmented Generation)
-* Setting up document storage and indexing
-* Building a financial health assessment agent
-* Integrating document search with agent responses
-* Best practices for context retrieval
+> **🎯 Step-by-Step Guide to RAG with LangChain, LangGraph, and Ollama | DeepSeek R1, QWEN, LLAMA, FAISS**
 
-🧠 *Hands-on:* Build a finance health assistant using RAG.
-🎯 *Outcome:* Students understand how to implement RAG in Agent Builder.
+**Advanced RAG Techniques:**
+- 🧠 **Agentic RAG:** Intelligent, adaptive systems that act like smart assistants
+- 🔄 **Corrective RAG:** Self-improving and error-correcting mechanisms  
+- 📊 **Document Processing:** Doclings integration for seamless document loading
+- 🚀 **Production Ready:** Streamlit apps and AWS EC2 deployment
 
----
+<div align="center">
 
-## 💬 **Section 6: Website QnA Chatbot (90 min)**
+**Technologies:** LangChain • LangGraph • Ollama • DeepSeek R1 • QWEN • LLAMA • FAISS
 
-**Topics:**
+</div>
 
-* Designing and building QnA Chatbot with Agent and Prompt Engineering
-* Setting up website data and publishing workflow
-* Local deployment with Node.js
-* Remote deployment on Vercel server
-* Integration and testing with your website
+<div align="center">
+<a href="https://www.udemy.com/course/agentic-rag-with-langchain-and-langgraph/?referralCode=C0BCC208F53AF2C98AC5" target="_blank">
+<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-4CAF50?style=for-the-badge&logoColor=white&labelColor=4CAF50" alt="Enroll Now" width="200"/>
+</a>
+</div>
 
-🧠 *Hands-on:* Build and deploy a complete website QnA chatbot from scratch.
-🎯 *Outcome:* Students can create, deploy, and integrate production-ready QnA chatbots for websites.
+</details>
 
----
+<details>
+<summary><strong>🔧 Master LangGraph and LangChain with Ollama</strong></summary>
 
-## 🧩 **Section 7: Setting up AWS & MySQL for Your Agents (20 min)**
+> **🎯 Agentic RAG and Chatbot, AI Agent, DeepSeek, LLAMA 3.2 Agent, FAISS Vector Database**
 
-**Topics:**
+**Build Production Chatbots:**
+- 💬 **Memory-Enabled Chatbots:** Dynamic conversations with persistent memory
+- 🗄️ **Database Integration:** Seamless MySQL query execution with LLMs
+- 📈 **State Management:** LangGraph workflows with advanced state machines
+- 🎯 **Private Data RAG:** Custom embeddings and vector database integration
 
-* Creating MySQL RDS instance on AWS
-* Configuring database (Classic Models + Support Tables)
-* Connecting via MCP or custom API
-* Managing environment variables and secure access
-* Testing SQL queries via MCP
+<div align="center">
 
-🧠 *Hands-on:* Query customer orders via the MySQL MCP tool.
-🎯 *Outcome:* Students can integrate real databases into Agent Builder workflows.
+**Technologies:** LangGraph • LangChain • Ollama • DeepSeek • LLAMA 3.2 • MySQL • FAISS
 
----
+</div>
 
-## ☕🛒 **Section 8: Project 1 – KGP Vibes Cafe: E-commerce Order & Recommendation Agent (70 min)**
+<div align="center">
+<a href="https://www.udemy.com/course/langgraph-with-ollama/?referralCode=B646DCB44A189BEBC20C" target="_blank">
+<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-2196F3?style=for-the-badge&logoColor=white&labelColor=2196F3" alt="Enroll Now" width="200"/>
+</a>
+</div>
 
-**Topics:**
+</details>
 
-### Part A: Building the Cafe Ordering System (35 min)
-* Introduction to KGP Vibes Cafe demo use case
-* Building a conversational ordering system
-* Managing state and context in multi-turn conversations
-* Handling user preferences and menu customization
-* Order confirmation and validation workflow
-* Querying product & order data from MySQL database
+<details>
+<summary><strong>⚡ Master Langchain and Ollama - Chatbot, RAG and Agents</strong></summary>
 
-### Part B: Deploy E-commerce Recommender & Order Tracker in Production (35 min)
-* Integrating MCP for product search and recommendations
-* Workflow for personalized menu item suggestions
-* Building real-time order tracking functionality
-* Guardrails for product suggestion limits
-* Adding human escalation node for complex queries
-* Exporting and deploying the agent to production
+> **🎯 Master Langchain v0.3, Local LLM Projects, Ollama, DeepSeek, LLAMA 3.2, Complete Integration Guide**
 
-🧠 *Hands-on:* Build a complete KGP Vibes Cafe e-commerce agent with ordering, recommendations, and tracking.
-🎯 *Outcome:* Students create a production-ready cafe e-commerce agent with conversational ordering, personalized recommendations, order tracking, and full deployment pipeline.
+**Complete LangChain Journey:**
+- 🛠️ **Setup & Integration:** Professional Ollama and Langchain configuration
+- 💬 **Custom Chatbots:** Memory, history, and advanced features with Streamlit
+- ⛓️ **Prompt Engineering:** Templates, chains (Sequential, Parallel, Router)
+- 🤖 **Agent Development:** Custom tools and step-by-step instruction execution
+- 🚀 **AWS Deployment:** Production-ready applications on AWS EC2
 
----
+<div align="center">
 
-## 💬 **Section 9: Project 2 – Customer Support Agent (50 min)**
+**Technologies:** Langchain v0.3 • Ollama • DeepSeek • LLAMA 3.2 • Streamlit • AWS EC2
 
-**Topics:**
+</div>
 
-* System architecture walkthrough
-* MySQL schema (customers, orders, tickets, interactions, feedback)
-* MCP connectors setup (SQL + Email)
-* Building workflow in Agent Builder:
-  * Identify intent (Order/Complaint/Refund)
-  * Query MySQL
-  * Create or update tickets
-  * Log interaction
-  * Send follow-up email
-* Guardrails for sensitive info
-* ChatKit front-end demo
+<div align="center">
+<a href="https://www.udemy.com/course/ollama-and-langchain/?referralCode=7F4C0C7B8CF223BA9327" target="_blank">
+<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-9C27B0?style=for-the-badge&logoColor=white&labelColor=9C27B0" alt="Enroll Now" width="200"/>
+</a>
+</div>
 
-🎯 *Outcome:* End-to-end customer support agent integrated with MySQL and AWS.
+</details>
 
----
+<details>
+<summary><strong>🔬 Fine Tuning LLM with Hugging Face Transformers for NLP</strong></summary>
 
-## 🌐 **Section 10: Deploying and Integrating Your Agent (20 min)**
+> **🎯 Learn transformer architecture fundamentals and fine-tune LLMs with custom datasets**
 
-**Topics:**
+**Advanced LLM Customization:**
+- 🧠 **Transformer Deep Dive:** Architecture fundamentals and mathematical foundations
+- 📊 **Custom Dataset Preparation:** Data preprocessing and formatting techniques
+- ⚡ **Fine-tuning Mastery:** Advanced optimization and training strategies
+- 🎯 **Model Optimization:** Performance tuning and evaluation methodologies
 
-* Exporting agent as code
-* Hosting MCP server on AWS EC2
-* Integrating ChatKit in a Streamlit or React UI
-* Security, keys, and rate-limiting
-* Using Guardrails and User Approval for enterprise readiness
+<div align="center">
 
-🎯 *Outcome:* Students can deploy and showcase their own production-ready AI agents.
+**Technologies:** Hugging Face Transformers • PyTorch • Custom Datasets • Advanced NLP
 
----
+</div>
 
-## 🎓 **Section 11: Bonus – Extending with Analytics & Voice (15 min)**
+<div align="center">
+<a href="https://www.udemy.com/course/fine-tuning-llm-with-hugging-face-transformers/?referralCode=6DEB3BE17C2644422D8E" target="_blank">
+<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-FF9800?style=for-the-badge&logoColor=white&labelColor=FF9800" alt="Enroll Now" width="200"/>
+</a>
+</div>
 
-**Topics:**
-
-* Adding analytics dashboard (Streamlit + AWS QuickSight)
-* Integrating voice (Twilio MCP)
-* Logging & monitoring best practices
-
-🎯 *Outcome:* Extend agent to real-world enterprise use.
+</details>
 
 ---
 
-## 📜 **Section 12: Course Wrap-Up (10 min)**
+## 📊 Machine Learning and Data Science
 
-**Topics:**
+<details>
+<summary><strong>🧠 Deep Learning for Beginners with Python</strong></summary>
 
-* Summary of concepts and projects
-* Real-world applications in business
-* Next steps: combining agents, APIs, and RAG systems
-* Certification project challenge
+> **🎯 Neural Networks, TensorFlow, ANN, CNN, RNN, LSTM, Transfer Learning and Much More**
 
-🎯 *Outcome:* Students complete their learning journey with project portfolio.
+**Complete Neural Network Mastery:**
+- 🔗 **Artificial Neural Networks (ANN):** Build from mathematical foundations
+- 👁️ **Convolutional Neural Networks (CNN):** Image processing and computer vision
+- 🔄 **Recurrent Neural Networks (RNN):** Sequential data and time series analysis
+- 📝 **LSTM Networks:** Advanced sequence modeling and memory networks
+- 🔄 **Transfer Learning:** Leverage pre-trained models for custom applications
+
+<div align="center">
+
+**Technologies:** Python • TensorFlow • Keras • Neural Network Architectures • Computer Vision
+
+</div>
+
+<div align="center">
+<a href="https://www.udemy.com/course/python-for-deep-learning-and-artificial-intelligence/?referralCode=657DFC7FE7AF949837DA" target="_blank">
+<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-E91E63?style=for-the-badge&logoColor=white&labelColor=E91E63" alt="Enroll Now" width="200"/>
+</a>
+</div>
+
+</details>
+
+<details>
+<summary><strong>🚀 Advanced Machine Learning and Deep Learning Projects</strong></summary>
+
+> **🎯 Build advanced projects using transformer models like BERT, GPT-2, and XLNet**
+
+**Cutting-Edge Project Portfolio:**
+- 🤖 **BERT Implementation:** Natural language understanding and classification
+- 💭 **GPT-2 Applications:** Text generation and completion systems
+- ⚡ **XLNet Techniques:** Bidirectional language modeling
+- 🎯 **Multi-modal AI:** Combine text, image, and audio processing
+- 🔧 **Custom Architectures:** Design and implement specialized models
+
+<div align="center">
+
+**Technologies:** BERT • GPT-2 • XLNet • Advanced Transformers • Multi-modal AI
+
+</div>
+
+<div align="center">
+<a href="https://www.udemy.com/course/advanced-natural-language-and-image-processing-projects/?referralCode=8CF8CE9E908DE272C6E4" target="_blank">
+<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-607D8B?style=for-the-badge&logoColor=white&labelColor=607D8B" alt="Enroll Now" width="200"/>
+</a>
+</div>
+
+</details>
+
+<details>
+<summary><strong>📈 Python for Linear Regression in Machine Learning</strong></summary>
+
+> **🎯 Master statistical foundations and practical implementation of regression analysis**
+
+**Statistical Mastery:**
+- 📊 **Regression Theory:** Mathematical foundations and statistical principles
+- 📈 **Hypothesis Testing:** Statistical validation and significance testing
+- 🔢 **Feature Engineering:** Variable selection and transformation techniques
+- 🎯 **Model Evaluation:** R-squared, RMSE, and comprehensive diagnostics
+- 💼 **Business Applications:** Real-world predictive modeling scenarios
+
+<div align="center">
+
+**Technologies:** Python • Scikit-Learn • Statistical Analysis • Pandas • NumPy
+
+</div>
+
+<div align="center">
+<a href="https://www.udemy.com/course/python-for-advanced-linear-regression-masterclass/?referralCode=5274985E3FE09AE414DC" target="_blank">
+<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-795548?style=for-the-badge&logoColor=white&labelColor=795548" alt="Enroll Now" width="200"/>
+</a>
+</div>
+
+</details>
+
+<details>
+<summary><strong>🎯 Machine Learning & Data Science for Beginners in Python</strong></summary>
+
+> **🎯 Complete foundation in ML and DL using Python, Scikit-Learn, Keras, and TensorFlow**
+
+**Complete Foundation:**
+- 🐍 **Python for Data Science:** From basics to advanced data manipulation
+- 📊 **Data Analysis Mastery:** Pandas, NumPy, and exploratory data analysis
+- 🤖 **Machine Learning:** Supervised and unsupervised learning algorithms
+- 🧠 **Deep Learning Introduction:** Neural networks with Keras and TensorFlow
+- 📈 **Data Visualization:** Professional charts and insights presentation
+
+<div align="center">
+
+**Technologies:** Python • Scikit-Learn • Pandas • NumPy • Matplotlib • TensorFlow
+
+</div>
+
+<div align="center">
+<a href="https://www.udemy.com/course/python-for-machine-learning-and-data-science-projects/?referralCode=C2A381E2EC08C84FFBFE" target="_blank">
+<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-009688?style=for-the-badge&logoColor=white&labelColor=009688" alt="Enroll Now" width="200"/>
+</a>
+</div>
+
+</details>
+
+<details>
+<summary><strong>💬 Natural Language Processing in Python for Beginners</strong></summary>
+
+> **🎯 Build NLP models using Python with Spacy, NLTK, and modern NLP techniques**
+
+**NLP Expertise:**
+- 🔤 **Text Processing:** Spacy and NLTK for production-ready NLP
+- 📊 **Sentiment Analysis:** Emotion detection and opinion mining
+- 🏷️ **Named Entity Recognition:** Extract people, places, organizations
+- 🔍 **Text Classification:** Document categorization and content analysis
+- 🎯 **Feature Engineering:** TF-IDF, word embeddings, and advanced features
+
+<div align="center">
+
+**Technologies:** Python • Spacy • NLTK • NLP Pipelines • Text Analytics
+
+</div>
+
+<div align="center">
+<a href="https://www.udemy.com/course/nlp-in-python/?referralCode=6D42C8883D3EF9461538" target="_blank">
+<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-FF5722?style=for-the-badge&logoColor=white&labelColor=FF5722" alt="Enroll Now" width="200"/>
+</a>
+</div>
+
+</details>
 
 ---
 
-### 🧩 Deliverables to Include in Course Downloads
+## 🚀 Production and Deployment
 
-* Classic Models + Support Tables SQL file
-* MCP configuration examples (MySQL + Gmail)
-* ChatKit sample frontend code
-* Python seeder for sample data
-* Agent Builder workflow diagrams (PNG)
-* AWS setup guide (PDF)
+<details>
+<summary><strong>🌐 Deploy ML Model in Production with FastAPI and Docker</strong></summary>
+
+> **🎯 Professional deployment strategies using FastAPI, Docker, and modern DevOps practices**
+
+**Production Deployment Mastery:**
+- 🌐 **FastAPI Development:** High-performance API creation for ML models
+- 🐳 **Docker Containerization:** Scalable and portable deployment solutions
+- ☁️ **Cloud Deployment:** AWS, GCP, and Azure deployment strategies
+- 🔒 **Security & Monitoring:** Authentication, logging, and performance monitoring
+- ⚡ **DevOps Integration:** CI/CD pipelines and automated deployment
+
+<div align="center">
+
+**Technologies:** FastAPI • Docker • Cloud Platforms • DevOps • Production Security
+
+</div>
+
+<div align="center">
+<a href="https://www.udemy.com/course/nlp-with-bert-in-python/?referralCode=063516494616C76907CD" target="_blank">
+<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-3F51B5?style=for-the-badge&logoColor=white&labelColor=3F51B5" alt="Enroll Now" width="200"/>
+</a>
+</div>
+
+</details>
+
+<details>
+<summary><strong>📊 Data Visualization in Python Masterclass for Beginners</strong></summary>
+
+> **🎯 Professional visualization and dashboard development using modern Python libraries**
+
+**Visualization Excellence:**
+- 📈 **Matplotlib Mastery:** Static plots with professional customizations
+- 🎨 **Seaborn Styling:** Statistical visualizations and advanced aesthetics
+- ⚡ **Plotly Interactive:** Dynamic charts and real-time dashboards
+- 📊 **Dashboard Development:** Streamlit and Dash applications
+- 💼 **Business Intelligence:** Professional reporting and data storytelling
+
+<div align="center">
+
+**Technologies:** Matplotlib • Seaborn • Plotly • Streamlit • Dash • Business Analytics
+
+</div>
+
+<div align="center">
+<a href="https://www.udemy.com/course/complete-data-visualization-in-python/?referralCode=C5022514A150E173DF32" target="_blank">
+<img src="https://img.shields.io/badge/🎓_Enroll_Now_→-8BC34A?style=for-the-badge&logoColor=white&labelColor=8BC34A" alt="Enroll Now" width="200"/>
+</a>
+</div>
+
+</details>
+
+---
+
+## 🛠️ Technologies & Frameworks Covered
+
+<div align="center">
+
+### **🔧 Complete Technology Stack**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.udemy.com/course/python-for-machine-learning-and-data-science-projects/?referralCode=C2A381E2EC08C84FFBFE)
+[![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)](https://www.udemy.com/course/ollama-and-langchain/?referralCode=7F4C0C7B8CF223BA9327)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.udemy.com/course/python-for-deep-learning-and-artificial-intelligence/?referralCode=657DFC7FE7AF949837DA)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://www.udemy.com/course/fine-tuning-llm-with-hugging-face-transformers/?referralCode=6DEB3BE17C2644422D8E)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://www.udemy.com/course/nlp-with-bert-in-python/?referralCode=063516494616C76907CD)
+
+</div>
+
+### **🎯 Specialized Technologies**
+
+<table>
+<tr>
+<td width="33%">
+
+**🤖 AI & LLM**
+- OpenAI Agent Builder
+- LangChain
+- LangGraph
+- Ollama
+- Hugging Face Transformers
+- OpenAI API
+- Claude API
+
+</td>
+<td width="33%">
+
+**📊 ML & Data Science**
+- Scikit-Learn
+- TensorFlow & Keras
+- PyTorch
+- Pandas & NumPy
+- Matplotlib & Seaborn
+- Plotly
+
+</td>
+<td width="33%">
+
+**🚀 Deployment & Production**
+- FastAPI
+- Streamlit
+- Docker
+- AWS EC2
+- AWS Lambda
+- API Gateway
+- Vector Databases (FAISS, ChromaDB)
+- MySQL Integration
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Learning Path Recommendations
+
+### 🤖 **AI/LLM Developer Path**
+```
+Master OpenAI Agent Builder - Low-Code AI Projects Workflow
+↓
+Master Langchain and Ollama - Chatbot, RAG and Agents
+↓
+Master LangGraph and LangChain with Ollama
+↓
+Agentic RAG with LangChain and LangGraph - Ollama
+↓
+MCP Mastery: Build AI Apps with Claude, LangChain and Ollama
+↓
+Fine Tuning LLM with Hugging Face Transformers for NLP
+```
+
+### 📊 **Data Scientist Path**  
+```
+Python for Linear Regression in Machine Learning
+↓
+Machine Learning & Data Science for Beginners in Python
+↓
+Natural Language Processing in Python for Beginners
+↓
+Deep Learning for Beginners with Python
+↓
+Advanced Machine Learning and Deep Learning Projects
+```
+
+### 🚀 **Production Engineer Path**
+```
+Machine Learning & Data Science for Beginners in Python
+↓
+Deep Learning for Beginners with Python
+↓
+Data Visualization in Python Masterclass for Beginners
+↓
+Deploy ML Model in Production with FastAPI and Docker
+```
+
+### 🎓 **Complete Mastery Path**
+```
+Machine Learning & Data Science for Beginners in Python
+↓
+Deep Learning for Beginners with Python
+↓
+Natural Language Processing in Python for Beginners
+↓
+Master OpenAI Agent Builder - Low-Code AI Projects Workflow
+↓
+Master Langchain and Ollama - Chatbot, RAG and Agents
+↓
+Master LangGraph and LangChain with Ollama
+↓
+Agentic RAG with LangChain and LangGraph - Ollama
+↓
+MCP Mastery: Build AI Apps with Claude, LangChain and Ollama
+↓
+Advanced Machine Learning and Deep Learning Projects
+↓
+Data Visualization in Python Masterclass for Beginners
+↓
+Deploy ML Model in Production with FastAPI and Docker
+↓
+Fine Tuning LLM with Hugging Face Transformers for NLP
+```
+
+---
+
+## 🏆 What Students Say
+
+<div align="center">
+
+### **💬 Student Success Stories**
+
+</div>
+
+> **"The MCP course is absolutely game-changing! I went from zero knowledge to building production-ready AI applications in just a week."**
+
+> **"Best LangChain course on the internet. Practical, up-to-date, and the projects are industry-relevant."**
+
+> **"Finally understood how to deploy ML models properly. The FastAPI + Docker approach saved my company thousands."**
+
+---
+
+## 📊 Course Statistics
+
+<div align="center">
+
+| 📈 **Metric** | 🎯 **Achievement** |
+|---------------|-------------------|
+| **Total Students** | 100,000+ Active Learners |
+| **Course Rating** | ⭐⭐⭐⭐⭐ (4.8/5.0) |
+| **Courses Available** | 11+ Comprehensive Programs |
+| **Hours of Content** | 100+ Hours of Learning |
+| **Projects Included** | 50+ Hands-on Projects |
+| **Technologies Covered** | 30+ Modern Frameworks |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect with Me
+
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kgptalkie.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/kgptalkie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laxmimerit)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/laxmimerit)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/laxmi-kant-tiwari/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laxmimerit)
+
+**⭐ If this helped you, please give it a star! ⭐**
+
+</div>
